@@ -1,0 +1,9 @@
+helpdesk@service.net
+lead.team@startup.io
+marketing@brand.co
+manager@yahoo.com
+sakshi.dev@outlook.com
+support@gmail.com
+hr@gmail.com
+admin@company.com
+sales@business.org
